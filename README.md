@@ -1,4 +1,5 @@
-Simple RAG Application for Parsing Text from Images
+Simple RAG Application for Parsing Text from Images.
+Users can then query an AI model that has access to information stored in the database.
 
 Converts Images to base64 and forward to OpenAI API to parse the text.
 
